@@ -108,7 +108,7 @@ img {
 }
 
 /* WHY US SECTION */
-.why-us {
+ .why-us {
     margin-bottom: 3rem;
 }
 .why-us .col-left {
@@ -150,6 +150,38 @@ img {
       .steps .col {
         width: 100%;
         padding: 20px 0;
-    
- } 
- }
+    } 
+
+    .steps{
+        margin: 0 auto;
+    }
+
+    .why-us{
+        background-color: black;
+        margin-bottom: 0;
+    }
+    .why-us .col{
+        width: 100%;
+    }
+    .why-us li{
+        margin-bottom: 0;
+        padding-top: 2.5rem;
+
+    } 
+
+    .why-us ul{
+        padding: 2.5rem 1.5rem;
+    }
+    .why-us h2{
+        padding: 2.5rem;
+    }
+    .why-us h3{
+        padding-right: 50px;
+
+    }
+
+    .card{
+        padding: 2.5rem 0;
+    }
+
+}
